@@ -8526,11 +8526,11 @@ h1, h2, h3, h4, h5,
         border-color: #fff;
         color: #2a2861; }
   .btn.btn-secondary {
-    background: #a8c337;
-    border: 1px solid #a8c337;
+    background: #d2413a;
+    border: 1px solid #d2413a;
     color: #fff; }
     .btn.btn-secondary:hover, .btn.btn-secondary:focus, .btn.btn-secondary:active {
-      border: 1px solid #a8c337;
+      border: 1px solid #d2413a;
       color: #fff; }
 
 .btn-custom {
@@ -8687,7 +8687,7 @@ h1, h2, h3, h4, h5,
       height: 30px;
       position: relative; }
       .staff .ftco-social li a {
-        color: #a8c337;
+        color: #d2413a;
         width: 30px;
         height: 30px;
         background: #fff;
@@ -8769,11 +8769,11 @@ h1, h2, h3, h4, h5,
       -ms-transition: all 0.3s ease;
       transition: all 0.3s ease; }
   .pricing-entry:hover .btn, .pricing-entry:focus .btn {
-    background: #a8c337 !important;
-    border: 1px solid #a8c337 !important;
+    background: #d2413a !important;
+    border: 1px solid #d2413a !important;
     color: #fff !important; }
   .pricing-entry:hover .price, .pricing-entry:focus .price {
-    color: #a8c337; }
+    color: #d2413a; }
 
 .block-20 {
   overflow: hidden;
@@ -8892,7 +8892,7 @@ textarea.form-control {
   background: #2a2861 !important; }
 
 .bg-secondary {
-  background: #a8c337 !important; }
+  background: #d2413a !important; }
 
 .about-author .desc h3 {
   font-size: 24px; }
@@ -8979,7 +8979,7 @@ textarea.form-control {
     .ftco-footer .subscribe-form .form-group .submit {
       color: #fff !important;
       font-size: 16px;
-      background: #a8c337 !important;
+      background: #d2413a !important;
       border: none !important;
       -webkit-border-radius: 2px;
       -moz-border-radius: 2px;
@@ -8992,7 +8992,7 @@ textarea.form-control {
       transition: all 0.3s ease; }
       .ftco-footer .subscribe-form .form-group .submit:hover {
         cursor: pointer;
-        background: #a8c337 !important; }
+        background: #d2413a !important; }
   .ftco-footer .subscribe-form .icon {
     position: absolute;
     top: 50%;
