@@ -60,13 +60,13 @@
 	      </button>
 	      <div class="collapse navbar-collapse" id="ftco-nav">
 	        <ul class="navbar-nav m-auto">
-	        	<li class="nav-item active"><a href="index.html" class="nav-link pl-0">Home</a></li>
-	        	<li class="nav-item"><a href="about.html" class="nav-link">About Doctor</a></li>
-	        	<li class="nav-item"><a href="doctor.html" class="nav-link">Service </a></li>
-	        	<li class="nav-item"><a href="department.html" class="nav-link">gallery</a></li>
+	        	<li class="nav-item active"><a href="index.php" class="nav-link pl-0">Home</a></li>
+	        	<li class="nav-item"><a href="about.php" class="nav-link">About Doctor</a></li>
+	        	<li class="nav-item"><a href="doctor.php" class="nav-link">Service </a></li>
+	        	<li class="nav-item"><a href="department.php" class="nav-link">gallery</a></li>
 	        	<!-- <li class="nav-item"><a href="pricing.html" class="nav-link">Pricing</a></li> -->
-	        	<li class="nav-item"><a href="blog.html" class="nav-link">Blog</a></li>
-	          <li class="nav-item"><a href="contact.html" class="nav-link">Contact</a></li>
+	        	<li class="nav-item"><a href="blog.php" class="nav-link">Blog</a></li>
+	          <li class="nav-item"><a href="contact.php" class="nav-link">Contact</a></li>
 	        </ul>
 	      </div>
 	    </div>
