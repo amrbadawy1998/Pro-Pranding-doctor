@@ -32,7 +32,7 @@
     	<div class="container">
     		<div class="row no-gutters d-flex align-items-start align-items-center px-3 px-md-0">
     			<div class="col-md-4 order-md-2 mb-2 mb-md-0 align-items-center text-center">
-		    		<a class="navbar-brand" href="index.html"><img src="./a.png" width="150" height="70"></span></a>
+		    		<a class="navbar-brand" href="index.html"><img src="./logo.png" width="152" height="98" ></span></a>
 	    		</div>
 	    		<div class="col-md-4 order-md-1 d-flex topper mb-md-0 mb-2 align-items-center text-md-right">
 	    			<div class="icon d-flex justify-content-center align-items-center order-md-last">
@@ -47,7 +47,7 @@
 			    	<div class="icon d-flex justify-content-center align-items-center"><span class="icon-paper-plane"></span></div>
 			    	<div class="text pl-3 pl-md-3">
 					    <p class="hr"><span>Open Hours</span></p>
-					    <p class="time"><span>Mon - Sat:</span> <span>8:00am - 9:00pm</span> Sun: Closed</p>
+					    <p class="time"><span>Sat - Mon - Wed:</span> <span>7:00pm - 9:00pm</span></p>
 				    </div>
 			    </div>
 		    </div>

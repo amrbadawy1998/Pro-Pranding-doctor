@@ -196,7 +196,7 @@ include("header.php");
           <div class="col-md-3 d-flex services align-self-stretch p-4 ftco-animate">
             <div class="media block-6 d-block text-center">
               <div class="icon d-flex justify-content-center align-items-center">
-            		<span class="flaticon-dentist-chair"></span>
+            	<img src="./brain.png" width="60" height ="60" >
               </div>
               <div class="media-body p-2 mt-3">
                 <h3 class="heading">Service 1</h3>
@@ -207,7 +207,7 @@ include("header.php");
           <div class="col-md-3 d-flex services align-self-stretch p-4 ftco-animate">
             <div class="media block-6 d-block text-center">
               <div class="icon d-flex justify-content-center align-items-center">
-            		<span class="flaticon-tooth-1"></span>
+			  <img src="./brain.png" width="60" height ="60" >
               </div>
               <div class="media-body p-2 mt-3">
                 <h3 class="heading">Service 2</h3>
@@ -218,7 +218,7 @@ include("header.php");
           <div class="col-md-3 d-flex services align-self-stretch p-4 ftco-animate">
             <div class="media block-6 d-block text-center">
               <div class="icon d-flex justify-content-center align-items-center">
-            		<span class="flaticon-tooth-with-braces"></span>
+			  <img src="./brain.png" width="60" height ="60" >
               </div>
               <div class="media-body p-2 mt-3">
                 <h3 class="heading">Service 3</h3>
@@ -229,7 +229,7 @@ include("header.php");
           <div class="col-md-3 d-flex services align-self-stretch p-4 ftco-animate">
             <div class="media block-6 d-block text-center">
               <div class="icon d-flex justify-content-center align-items-center">
-            		<span class="flaticon-decayed-tooth"></span>
+			  <img src="./brain.png" width="60" height ="60" >
               </div>
               <div class="media-body p-2 mt-3">
                 <h3 class="heading">Service 4</h3>
